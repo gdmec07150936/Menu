@@ -1,4 +1,4 @@
-package com.example.administrator.menu;
+package com.example.tanjinhui.menu;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -10,7 +10,7 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class menu extends AppCompatActivity {
+class menu extends AppCompatActivity {
     private TextView tv1;
     private int count;
     @Override
